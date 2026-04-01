@@ -12,3 +12,6 @@ https://virginiatech-my.sharepoint.com/:u:/g/personal/samk02_vt_edu/IQAoDAyqZoq5
 
 Link to the Class Diagram:
 https://www.figma.com/design/MDCZFuHm0FasrkOgX6Zh3I/Class-Diagram?node-id=0-1&p=f&t=KEFlcUqM5Jge5wqc-0
+
+Link to the Database Table:
+https://www.figma.com/board/rZko4NAvn47iZq9DLV5MxH/Database-Table?node-id=0-1&p=f&t=To5unPgRjYA8wtE5-0
