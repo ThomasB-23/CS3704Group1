@@ -10,3 +10,5 @@ https://www.figma.com/board/gSWrU7mcNLjIQ2vvKOhIWe/Group-1-Conceptual-Class-Diag
 Link to the ER Diagram:
 https://virginiatech-my.sharepoint.com/:u:/g/personal/samk02_vt_edu/IQAoDAyqZoq5T6H7C6Wl-_zSASqtt15PcuLAWf--VhBwCcM?e=DLdpje
 
+Link to the Class Diagram:
+https://www.figma.com/design/MDCZFuHm0FasrkOgX6Zh3I/Class-Diagram?node-id=0-1&p=f&t=KEFlcUqM5Jge5wqc-0
